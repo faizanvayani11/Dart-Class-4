@@ -1,0 +1,49 @@
+Class 04 
+
+LISTS
+
+we can also create a list using var data type 
+list is also a data type
+
+Methods in Dart 
+
+.length
+.elementAt
+.last 
+.first 
+.replacement
+.sort
+.isEmpty
+.add
+.addAll
+.clear
+.insert
+.insertAll
+.reverse
+.remove
+.removeAt
+.where
+
+and many more 
+
+
+((e) => e > 50)
+here e describes the elements of the list or array and then we put arrow function which will 
+provide the true or false to the condition 
+
+example 
+List stdName  = [45,12,15,19,18,13,28,95,86,84,72,73,74,16,45];
+stdName.removeWhere((e) => e >20 )
+print(stdNames);
+
+
+map = methods = functions
+map are like methods or function 
+
+it can be work as data type 
+
+
+END (Slide 16 tk hogya hy )
+
+
+
